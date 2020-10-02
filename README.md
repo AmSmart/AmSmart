@@ -13,7 +13,7 @@ I develop majorly with the languages/frameworks below:
 * WinUI (C#)
 * WPF and WinForms (C#)
 * PyTorch
-* ML.NET
+* ML.NET (C#)
 
 You're probably guessed by now. I really love .NET, however I use and love other technologies as well
 
