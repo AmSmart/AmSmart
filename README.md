@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## I am ***Emmanuel Oluwagbemiga Adebiyi***
+# I am ***Emmanuel Oluwagbemiga Adebiyi***
+
+I build desktop, web and mobile applications. I also build Machine Learning models and really love Computer Vision scenarios.
 
 I develop majorly with the languages/frameworks below:
 
@@ -11,6 +13,7 @@ I develop majorly with the languages/frameworks below:
 * WinUI (C#)
 * WPF and WinForms (C#)
 * PyTorch
+* ML.NET
 
 You're probably guessed by now. I love .NET and I'm open to other technologies as well
 
