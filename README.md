@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I am ***Emmanuel Oluwagbemiga Adebiyi***
+# I am ***Emmanuel Oluwagbemiga Adebiyi (Smart)***
 
 I build desktop, web and mobile applications. I also build Machine Learning models and really love Computer Vision scenarios.
 
