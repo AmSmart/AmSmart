@@ -17,7 +17,9 @@ I develop majorly with the languages/frameworks below:
 
 You're probably guessed by now. I really love .NET, however I use and love other technologies as well
 
-Need a job at Microsoft (Contact me if you've got one)
+I love building enabling tools for developers (Contact me if you've got something for me).
+
+✌
 
 
 <!--
