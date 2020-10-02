@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am **Emmanuel Oluwagbemiga Adebiyi**
+## I am ***Emmanuel Oluwagbemiga Adebiyi***
 
 I develop majorly with the languages/frameworks below:
 
@@ -12,9 +12,9 @@ I develop majorly with the languages/frameworks below:
 * WPF and WinForms (C#)
 * PyTorch
 
-* You're probably guessed by now. I love .NET and I'm open to other technologies as well
+You're probably guessed by now. I love .NET and I'm open to other technologies as well
 
-* Need a job at Microsoft (Contact me if you've got one)
+Need a job at Microsoft (Contact me if you've got one)
 
 
 <!--
