@@ -1,25 +1,22 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 # I am ***Emmanuel Oluwagbemiga Adebiyi (Smart)***
 
-I build desktop, web and mobile applications. I also build Machine Learning models and really love Computer Vision scenarios.
+I build desktop, web and mobile applications. I also build Machine Learning models and love CV and NLP scenarios.
 
 I develop majorly with the languages/frameworks below:
 
 * ASP.NET Core (C#)
-* React.js
-* Xamarin.Forms (C#)
-* Android (Java)
-* WinUI (C#)
-* WPF and WinForms (C#)
-* PyTorch
+* Node.js (JS/TS)
+* React.js (JS/TS)
+* Xamarin.Forms / .NET MAUI (C#)
+* WinUI / WPF / WinForms (C#)
+* FastAPI / Flask / PyTorch (Python)
 * ML.NET (C#)
 
-You're probably guessed by now. I really love .NET, however I use and love other technologies as well
+Last but not least, I'm a hardware lover. In my spare time, I build IoT projects with Arduino, Raspberry Pi etc.
 
-I love building enabling tools for developers (Contact me if you've got something for me).
-
-✌
+✌🏽
 
 
 <!--
