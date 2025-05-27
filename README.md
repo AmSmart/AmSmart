@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-# I am ***Emmanuel Oluwagbemiga Adebiyi (Smart)***
+# I am ***Emmanuel Oluwagbemiga Adebiyi***
 
 I build high-quality software. I love ML, particularly LLMs and Computer Vision.
 
